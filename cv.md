@@ -6,8 +6,8 @@
 |        Type of contact | Data            |
 |-----------------------:|:----------------|
 | MTS (Viber, Telegram): | *+375295465422* |
-|                    A1: | *+375297337462* |
-|               Discord: | *shinby85*      |
+|                    A1: | *+375447337462* |
+|               Discord: | *shinoby*     |
 |              MS Teams: | *jshinoby*      |
 
 ## Summary
