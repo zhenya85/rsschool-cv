@@ -120,6 +120,7 @@ header, main, footer {
     flex-wrap: wrap;
     margin-top: 28px;
     padding-top: 28px;
+    padding-left: 0;
     border-top: 1px solid #e0e4ef;
 }
 .contact__item{
@@ -166,6 +167,7 @@ header, main, footer {
     border: 1px solid #2a2f3f;;
     border-radius: 12px;
     padding: 18px 20px;
+    list-style-type: none;
 }
 
 .skill-top {
