@@ -366,31 +366,7 @@ header, main, footer {
     white-space: nowrap;
     flex-shrink: 0;
 }
-
-
-
-
-
-
-/*.list > li {*/
-/*    list-style-type: none;*/
-/*    margin-bottom: 30px;*/
-/*}*/
-
-/*.experience-list > li:before {*/
-/*    content: "🌟";*/
-/*}*/
-
-/*.list ul > li {*/
-/*    list-style-type: disc;*/
-/*    line-height: 1.5;*/
-/*}*/
-
-/*.list li a {*/
-/*    font-style: italic;*/
-/*    font-weight: 600;*/
-/*}*/
-
+/*------- Education container -------*/
 .education-image__wrapper,
 .experience-image__wrapper {
     display: flex;
